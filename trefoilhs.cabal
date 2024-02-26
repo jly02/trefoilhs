@@ -29,7 +29,7 @@ synopsis:           Interpreter for a simple S-expression programming language.
 -- description:
 
 -- URL for the project homepage or repository.
-homepage:           https://github.com/jly02
+homepage:           https://github.com/jly02/trefoilhs
 
 -- The license under which the package is released.
 license:            MIT
